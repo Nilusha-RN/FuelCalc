@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Example{
+public class FuelCalc{
     public static void main(String args[]){
 		Scanner input=new Scanner(System.in);
 		String f,g,h;
