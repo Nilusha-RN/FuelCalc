@@ -16,5 +16,5 @@ A simple Java-based daily report tool for petrol ⛽ and diesel 🛢️ filling 
 ## ▶️ How to Run
 
 ```bash
-javac Example.java
-java Example
+javac FuelCalc.java
+java FuelCalc
